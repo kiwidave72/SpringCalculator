@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringRaceCalculator.Library", "SpringRaceCalculator.Library\SpringRaceCalculator.Library.csproj", "{586AA511-C9C3-4BCC-B892-8E36751B1551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringRateCalculator.Acceptance.Tests", "SpringRateCalculator.Acceptance.Tests\SpringRateCalculator.Acceptance.Tests.csproj", "{29B30086-AEE7-4EB3-A43D-06826B15BBBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{586AA511-C9C3-4BCC-B892-8E36751B1551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586AA511-C9C3-4BCC-B892-8E36751B1551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586AA511-C9C3-4BCC-B892-8E36751B1551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586AA511-C9C3-4BCC-B892-8E36751B1551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B30086-AEE7-4EB3-A43D-06826B15BBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B30086-AEE7-4EB3-A43D-06826B15BBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B30086-AEE7-4EB3-A43D-06826B15BBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B30086-AEE7-4EB3-A43D-06826B15BBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

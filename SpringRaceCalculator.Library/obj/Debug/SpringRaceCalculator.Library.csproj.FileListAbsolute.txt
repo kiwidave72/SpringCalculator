@@ -1,0 +1,4 @@
+C:\Projects\SpringRateCalculator\SpringRaceCalculator.Library\bin\Debug\SpringRaceCalculator.Library.dll
+C:\Projects\SpringRateCalculator\SpringRaceCalculator.Library\bin\Debug\SpringRaceCalculator.Library.pdb
+C:\Projects\SpringRateCalculator\SpringRaceCalculator.Library\obj\Debug\SpringRaceCalculator.Library.dll
+C:\Projects\SpringRateCalculator\SpringRaceCalculator.Library\obj\Debug\SpringRaceCalculator.Library.pdb

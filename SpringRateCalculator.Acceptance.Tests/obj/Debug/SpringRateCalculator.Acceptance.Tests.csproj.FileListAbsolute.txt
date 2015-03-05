@@ -1,0 +1,7 @@
+C:\Projects\SpringRateCalculator\SpringRateCalculator.Acceptance.Tests\bin\Debug\SpringRateCalculator.Acceptance.Tests.dll
+C:\Projects\SpringRateCalculator\SpringRateCalculator.Acceptance.Tests\bin\Debug\SpringRateCalculator.Acceptance.Tests.pdb
+C:\Projects\SpringRateCalculator\SpringRateCalculator.Acceptance.Tests\obj\Debug\SpringRateCalculator.Acceptance.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\SpringRateCalculator\SpringRateCalculator.Acceptance.Tests\obj\Debug\SpringRateCalculator.Acceptance.Tests.dll
+C:\Projects\SpringRateCalculator\SpringRateCalculator.Acceptance.Tests\obj\Debug\SpringRateCalculator.Acceptance.Tests.pdb
+C:\Projects\SpringRateCalculator\SpringRateCalculator.Acceptance.Tests\bin\Debug\SpringRaceCalculator.Library.dll
+C:\Projects\SpringRateCalculator\SpringRateCalculator.Acceptance.Tests\bin\Debug\SpringRaceCalculator.Library.pdb
